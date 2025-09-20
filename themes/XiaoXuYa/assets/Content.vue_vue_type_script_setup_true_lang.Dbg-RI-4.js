@@ -1,0 +1,1 @@
+import{d as s,b as e,ae as a,e as o}from"./index.CT88Sm32.js";const t={class:"min-h-[calc(100vh-9rem)] flex flex-col grow"},l=s({__name:"Content",setup:s=>(s,l)=>(o(),e("div",t,[a(s.$slots,"default")]))});export{l as _};

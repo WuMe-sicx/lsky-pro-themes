@@ -6,5 +6,13 @@
     "author": "Spark Studio",
     "tags": ["简洁", "模块化布局", "卡片风格"],
     "repo": "https://github.com/xxx/demo"
+  },
+  {
+    "id": "XiaoXuYa",
+    "name": "XiaoXuYa",
+    "description": "这是一个XiaoXuYa主题",
+    "author": "XiaoXuYa",
+    "tags": ["简洁", "模块化布局", "卡片风格", "科技感", "未来感"],
+    "repo": "https://www.sicx.top/"
   }
 ]
