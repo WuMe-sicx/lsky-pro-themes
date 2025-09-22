@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="keywords" content="{{ \App\Facades\ThemeService::getTheme('XiaoXuYa')->getSettings('keywords') }}" />
     <meta name="description" content="{{ \App\Facades\ThemeService::getTheme('XiaoXuYa')->getSettings('description') }}" />
-  <script type="module" crossorigin src="/assets/index.BWoVohGl.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index.CFj53ccZ.css">
+  <script type="module" crossorigin src="/assets/index.BwdMlFEt.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index.BUBjND5o.css">
 </head>
 <body>
 <div id="app"></div>
