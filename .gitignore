@@ -1,0 +1,14 @@
+# 忽略所有文件
+/*
+
+# 但不忽略以下文件/目录
+!/.gitignore
+!/dist/
+
+# 不忽略 version.json (版本更新检查)
+!/public/
+!/public/version.json
+
+# 忽略 dist 中不需要的文件
+dist/*.log
+dist/*.php
