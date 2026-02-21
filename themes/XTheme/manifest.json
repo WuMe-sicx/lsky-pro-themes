@@ -1,0 +1,8 @@
+{
+  "id": "XTheme",
+  "name": "XTheme",
+  "description": "使用 Vue3 + Vite + NaiveUI 开发的前后端分离主题，支持暗色模式、多语言、自定义配置",
+  "author": "Xiaoxuya",
+  "tags": ["Vue3", "前后端分离", "暗色模式", "多语言", "NaiveUI", "现代化"],
+  "repo": "https://egouu.com"
+}
